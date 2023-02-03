@@ -50,7 +50,7 @@ function App() {
       {state.map((obj, i) => {
         return (
           <div key={obj.toString()} className="input-group mb-3">
-            <label className={`input-group-text ${(Object.keys(obj.listObj).length===0)?'bg-danger text-white':'bg-warning'}`} htmlFor="inputGroupSelect01">
+            <label className={`input-group-text ${(Object.keys(obj.listObj).length===0)?'bg-warning':'bg-primary text-light'}`} htmlFor="inputGroupSelect01">
               {obj.name}
             </label>
             <select className='form-select'  id="inputGroupSelect01"
