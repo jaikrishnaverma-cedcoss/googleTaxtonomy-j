@@ -1,0 +1,62 @@
+# Google_Product_Taxonomy_Version: 2021-09-21
+Animals & Pet Supplies
+Animals & Pet Supplies > Live Animals
+Animals & Pet Supplies > Pet Supplies
+Animals & Pet Supplies > Pet Supplies > Bird Supplies
+Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Cage Accessories
+Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Cage Accessories > Bird Cage Bird Baths
+Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Cage Accessories > Bird Cage Food & Water Dishes
+Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Cages & Stands
+Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Food
+Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Gyms & Playstands
+Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Ladders & Perches
+Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Toys
+Animals & Pet Supplies > Pet Supplies > Bird Supplies > Bird Treats
+Animals & Pet Supplies > Pet Supplies > Cat Supplies
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Apparel
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Beds
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Food
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Food > Non-prescription Cat Food
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Food > Prescription Cat Food
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Furniture
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Furniture Accessories
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Litter
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Litter Box Liners
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Litter Box Mats
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Litter Boxes
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Toys
+Animals & Pet Supplies > Pet Supplies > Cat Supplies > Cat Treats
+Apparel & Accessories
+Apparel & Accessories > Clothing
+Apparel & Accessories > Clothing > Activewear
+Apparel & Accessories > Clothing > Activewear > American Football Pants
+Apparel & Accessories > Clothing > Activewear > Bicycle Activewear
+Apparel & Accessories > Clothing > Activewear > Bicycle Activewear > Bicycle Bibs
+Apparel & Accessories > Clothing > Activewear > Bicycle Activewear > Bicycle Jerseys
+Apparel & Accessories > Clothing > Activewear > Bicycle Activewear > Bicycle Shorts & Briefs
+Apparel & Accessories > Clothing > Activewear > Bicycle Activewear > Bicycle Skinsuits
+Apparel & Accessories > Clothing > Activewear > Bicycle Activewear > Bicycle Tights
+Apparel & Accessories > Clothing > Activewear > Boxing Shorts
+Apparel & Accessories > Clothing > Activewear > Dance Dresses, Skirts & Costumes
+Apparel & Accessories > Clothing > Activewear > Hunting Clothing
+Apparel & Accessories > Clothing > Activewear > Hunting Clothing > Ghillie Suits
+Apparel & Accessories > Clothing > Activewear > Hunting Clothing > Hunting & Fishing Vests
+Apparel & Accessories > Clothing > Activewear > Hunting Clothing > Hunting & Tactical Pants
+Apparel & Accessories > Clothing > Activewear > Martial Arts Shorts
+Apparel & Accessories > Clothing > Activewear > Motorcycle Protective Clothing
+Apparel & Accessories > Clothing > Activewear > Motorcycle Protective Clothing > Motorcycle Jackets
+Apparel & Accessories > Clothing > Activewear > Motorcycle Protective Clothing > Motorcycle Pants
+Apparel & Accessories > Clothing > Activewear > Motorcycle Protective Clothing > Motorcycle Suits
+Apparel & Accessories > Clothing > Activewear > Paintball Clothing
+Apparel & Accessories > Clothing > Baby & Toddler Clothing
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Bottoms
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Diaper Covers
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Dresses
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Outerwear
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Outfits
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Sleepwear
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Socks & Tights
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Swimwear
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby & Toddler Tops
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Baby One-Pieces
+Apparel & Accessories > Clothing > Baby & Toddler Clothing > Toddler Underwear
